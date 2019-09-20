@@ -1,2 +1,3 @@
 # metro-for-steam-updater
-simple python script to update your theme
+`$ python mfsu.py` to execute  
+if you want Extras from unofficial patch create "Extras" folder where script located and toss the extras in there.
